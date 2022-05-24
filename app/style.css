@@ -224,7 +224,7 @@ h1 {
 
 #animation{
   
- 
+  display-direction:column;
   text-align: center;
 }
 
